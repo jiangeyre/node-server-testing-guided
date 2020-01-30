@@ -9,7 +9,7 @@ module.exports = {
 };
 
 async function insert(hobbit) {
-  return null;
+  return ;
 }
 
 async function update(id, changes) {
